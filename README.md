@@ -1,12 +1,9 @@
 # Comments for https://flapenguin.me/
 
-# Mirror: https://flapenguin.netlify.app/
-Namecheap sabotaged my domain renewal and transfer [because of my nationality](https://news.ycombinator.com/item?id=30504812). **Never** use namecheap. Transfer your domain away from them as fast as you can.
-
-
 ### Why Github?
 - I have a personal tech blog, so I assume most of my visitors already have github.
 - It has pretty good issues.
+- Awesome [utteranc.es](https://utteranc.es/)
 - That's it.
 
 ### Why not Disqus?
